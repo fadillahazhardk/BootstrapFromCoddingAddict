@@ -1,0 +1,35 @@
+body {
+    font-family:'Roboto', sans-serif;
+}
+
+.height{
+    min-height: 100vh;
+}
+.height-80{
+    min-height: 80vh;
+}
+.height-50 {
+    min-height: 50vh;
+}
+
+
+.title-underline {
+    width: 100px;
+    height: 5px;
+    margin: 0 auto;
+}
+
+.about-picture {
+    background: url(./img/beige-analog-gauge-697662.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.cta-picture {
+    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)) ,url(./img/beige-analog-gauge-697662.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
