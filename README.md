@@ -1,4 +1,4 @@
-# My BootstrapTraining-1
+# Bootstrap Training
 This is the result code of my bootstrap practice from Coding Addict.
 Video source : https://www.youtube.com/watch?v=Uhy3gtZoeOM&t=102s.
 
